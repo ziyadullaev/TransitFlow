@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Krub";
+    src: url(/assets/fonts/Krub-Regular.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "krub";
+    src: url(/assets/fonts/Krub-MediumItalic.ttf);
+    font-style: italic;
+    font-weight: 100;
+    font-variant: small-caps;
+}
+@font-face {
+    font-family: "Rubik";
+    src: url(/assets/fonts/Rubik-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "krub";
+    src: url(/assets/fonts/Krub-Italic.ttf);
+    /* font-style: italic; */
+    font-weight: 700; 
+}
+
+@font-face {
+    font-family: "rubik";
+    src: url(/assets/fonts/Rubik-VariableFont_wght.ttf);
+    font-weight: 300;
+}
