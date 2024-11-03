@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: #ffcc00;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+th, td {
+    border: 1px solid rgb(33, 71, 83);
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: #95d5dd;
+}
+td{
+    background-color: #cad6e2;
+}
