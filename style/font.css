@@ -23,7 +23,54 @@
 }
 
 @font-face {
+    font-family: "krub";
+    src: url(/assets/fonts/Krub-Bold.ttf);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "krub";
+    src: url(/assets/fonts/Krub-ExtraBold.ttf);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "krub";
+    src: url(/assets/fonts/Krub-SemiBold.ttf);
+    font-weight: 600;
+}
+
+
+@font-face {
+    font-family: "krub";
+    src: url(/assets/fonts/Krub-Light.ttf);
+    font-weight: 300;
+}
+
+
+@font-face {
+    font-family: "krub";
+    src: url(/assets/fonts/Krub-Medium.ttf);
+    font-weight: 500;
+}
+
+
+@font-face {
+    font-family: "krub";
+    src: url(/TransitFlow/assets/fonts/Krub-Italic.ttf);
+    font-style: italic;
+    font-weight: 200;
+    font-variant: small-caps;
+}
+
+@font-face {
     font-family: "rubik";
     src: url(/assets/fonts/Rubik-VariableFont_wght.ttf);
     font-weight: 300;
 }
+@font-face {
+    font-family: "krub";
+    src: url(/TransitFlow/assets/fonts/Krub-ExtraLight.ttf);
+    font-weight: 200;
+} 
